@@ -33,7 +33,7 @@ sections:
         borderRadius: x-small
         borderWidth: 3
         borderStyle: dotted
-        borderColor: border-complementary
+        borderColor: border-primary
       title:
         fontWeight: '700'
         fontStyle: normal
