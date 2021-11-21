@@ -375,6 +375,19 @@ fields:
       - type: enum
         name: borderStyle
         label: Border style
+      controlType: 'thumbnails'
+      options:
+        - value: content-left
+          label: Content on left, image on right
+          thumbnail: './images/content-left.png'
+        - value: content-right
+          label: Content on right, image on left
+          thumbnail: './images/content-right.png'
+        - value: content-top
+          label: Content on top, image at bottom
+          thumbnail: './images/content-top.png'
+
+
         controlType: button-group
         options:
           - label: None
