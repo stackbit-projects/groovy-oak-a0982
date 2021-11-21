@@ -38,7 +38,7 @@ fields:
       self:
         height: ['auto', 'screen']
         width: ['narrow', 'wide', 'full']
-        margin: ['tw0:36']
+        margin: ['x0:36']
         padding: ['tw4:36']
         justifyContent: ['flex-start', 'flex-end', 'center']
         borderRadius: '*'
