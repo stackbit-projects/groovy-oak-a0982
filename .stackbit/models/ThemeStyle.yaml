@@ -379,7 +379,7 @@ fields:
         options:
           - value: none
             label: Content on left, image on right
-            thumbnail: './images/hero-form.png'
+            thumbnail: './images/hero-form.jpg'
           - value: content-right
             label: Content on right, image on left
             thumbnail: './images/content-right.png'
