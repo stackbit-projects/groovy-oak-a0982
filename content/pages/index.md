@@ -31,7 +31,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: x-small
-        borderWidth: 0
+        borderWidth: 2
         borderStyle: none
         borderColor: border-complementary
       title:
