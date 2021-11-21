@@ -378,7 +378,7 @@ fields:
         controlType: 'thumbnails'
         options:
           - value: none
-            label: Content on left, image on right
+            label: None
             thumbnail: './images/hero-form.jpg'
           - value: content-right
             label: Content on right, image on left
