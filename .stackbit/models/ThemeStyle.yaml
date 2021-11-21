@@ -386,8 +386,6 @@ fields:
           - value: content-top
             label: Content on top, image at bottom
             thumbnail: './images/content-top.png'
-
-
         controlType: button-group
         options:
           - label: None
