@@ -379,7 +379,7 @@ fields:
         options:
           - value: none
             label: None None
-            thumbnail: './images/hero-form.jpg'
+            thumbnail: './images/hero-form.jpgsdfsdf'
           - value: solid
             label: Solid Solid
             thumbnail: './images/hero-text.jpg'
