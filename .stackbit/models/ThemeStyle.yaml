@@ -380,7 +380,7 @@ fields:
           - value: none
             label: None
             thumbnail: './images/hero-form.jpg'
-          - value: content-right
+          - value: solid
             label: Content on right, image on left
             thumbnail: './images/content-right.png'
           - value: content-top
