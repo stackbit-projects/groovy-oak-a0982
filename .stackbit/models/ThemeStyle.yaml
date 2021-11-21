@@ -382,7 +382,7 @@ fields:
             thumbnail: './images/hero-form.jpg'
           - value: solid
             label: Solid
-            thumbnail: './images/content-right.png'
+            thumbnail: './images/hero-text.jpg'
           - value: content-top
             label: Content on top, image at bottom
             thumbnail: './images/content-top.png'
