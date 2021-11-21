@@ -39,7 +39,7 @@ fields:
         height: ['auto', 'screen']
         width: ['narrow', 'wide', 'full']
         margin: ['x0:36']
-        padding: ['tw4:36']
+        padding: ['x4:36']
         justifyContent: ['flex-start', 'flex-end', 'center']
         borderRadius: '*'
         borderWidth: ['0:8']
