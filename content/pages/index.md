@@ -30,7 +30,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: none
+        borderRadius: x-small
         borderWidth: 0
         borderStyle: none
         borderColor: border-neutral
