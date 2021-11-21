@@ -378,10 +378,10 @@ fields:
         controlType: 'thumbnails'
         options:
           - value: none
-            label: None
+            label: None None
             thumbnail: './images/hero-form.jpg'
           - value: solid
-            label: Solid
+            label: Solid Solid
             thumbnail: './images/hero-text.jpg'
         default: solid
       - type: number
