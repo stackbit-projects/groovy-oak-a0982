@@ -375,7 +375,7 @@ fields:
       - type: enum
         name: borderStyle
         label: Border style
-        controlType: 'thumbnails'
+        controlType: thumbnails
         options:
           - value: none
             label: None None
